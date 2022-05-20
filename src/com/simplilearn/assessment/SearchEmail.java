@@ -13,12 +13,12 @@ public class SearchEmail {
 
 		ArrayList<String> emailID = new ArrayList<String>();
 		emailID.add("sameer.parekh@gmail.com");
-		emailID.add("sunny.deol@gmail.com");
-		emailID.add("salman.khan@gmail.com");
+		emailID.add("sunny.kumar@gmail.com");
+		emailID.add("salman.ahmed@gmail.com");
 		emailID.add("mahima.chauhan@gmail.com");
 		emailID.add("ahmed.faisal@gmail.com");
 		emailID.add("harry.steven@gmail.com");
-		emailID.add("shoaib.akhtar@gmail.com");
+		emailID.add("shoaib.khan@gmail.com");
 		
 		// Get the input back for a string
 		System.out.println("Enter emailID that you need to search: ");
